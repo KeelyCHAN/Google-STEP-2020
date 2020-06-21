@@ -19,3 +19,20 @@ For each city: <br>
 Above greedy algorithm with 2-opt improvement. <br>
 Set the best tour in greedy.ipynb as the initial tour. Apply 2-opt improvement as Greedy+2opt(improved)-1.ipynb.
 ### SA algorithm
+
+Best Score (up to now)
+===
+### Case 0
+3291.62 by BF algorithm <br>
+### Case 1
+3778.71 by BF algorithm <br>
+### Case 2
+4494.42 by greedy + 2opt (basic) <br>
+### Case 3
+8354.03 by greedy + 2opt (basic) <br>
+### Case 4
+11393.00 by greedy + 2opt (improved)-1 <br>
+### Case 5
+22806.48 by greedy + 2opt (improved)-2 <br>
+### Case 6
+44881.59 by greedy + 2opt (improved)-2 <br>
