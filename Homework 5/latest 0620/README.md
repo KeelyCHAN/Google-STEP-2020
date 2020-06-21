@@ -17,5 +17,5 @@ For each city: <br>
 4. Repeat until no overlapped edges. <br>
 ### Greedy+2opt(improved)-2.ipynb
 Above greedy algorithm with 2-opt improvement. <br>
-Set the best tour in greedy.ipynb as the initial tour. Apply 2opt improvement as Greedy+2opt(improved)-1.ipynb.
+Set the best tour in greedy.ipynb as the initial tour. Apply 2-opt improvement as Greedy+2opt(improved)-1.ipynb.
 ### SA algorithm
