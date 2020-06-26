@@ -11,3 +11,4 @@ SNS network / Wikipedia network <br>
 ### Homework 5
 TSP problem <br>
 ### Homework 6
+self-built malloc() <br>
