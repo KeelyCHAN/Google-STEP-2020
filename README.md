@@ -12,3 +12,6 @@ SNS network / Wikipedia network <br>
 TSP problem <br>
 ### Homework 6
 self-built malloc() <br>
+### Homework 7
+Improvement of matrix multiplication <br>
+Improvement of TSP problem <br>
