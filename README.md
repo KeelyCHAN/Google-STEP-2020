@@ -1,17 +1,17 @@
-Google Student Training in Engineering Program (STEP) 2020
-===
-### Homework 1
-Anagram <br>
-### Homework 2
-Webpages cache <br>
-### Homework 3
-Calculator <br>
-### Homework 4
-SNS network / Wikipedia network <br>
-### Homework 5
-TSP problem <br>
-### Homework 6
-self-built malloc() <br>
-### Homework 7
-Improvement of matrix multiplication <br>
-Improvement of TSP problem <br>
+# Google Student Training in Engineering Program (STEP) 2020
+
+Assignments completed in STEP 2020.
+
+### Homework 1: Anagram
+
+### Homework 2: Web pages caching
+
+### Homework 3: Calculator
+
+### Homework 4L SNS network & Wikipedia network
+
+### Homework 5: TSP problem
+
+### Homework 6: Self-built malloc() function
+
+### Homework 7: Improvements of matrix multiplication & TSP problem
