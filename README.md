@@ -1,6 +1,6 @@
-# Google Student Training in Engineering Program (STEP) 2020
+# Google STEP (Student Training in Engineering Program)
 
-Assignments completed in STEP 2020.
+Assignments completed in STEP2020.
 
 ### Homework 1: Anagram
 
